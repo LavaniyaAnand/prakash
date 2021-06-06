@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is 4296-2393
-
- Directory of D:\GIT_Project_Testing
-
-07-06-2021  01:21    <DIR>          .
-07-06-2021  01:21    <DIR>          ..
-07-06-2021  01:21                 0 Anand.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  387,922,391,040 bytes free
+This is my first Project Testing project.
